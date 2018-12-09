@@ -1,5 +1,7 @@
 # Bitcoin Display for ESP32 with OLED
 
+![BTC Display on ESP32 with OLED](https://github.com/jzeiber/ESP32_BTC_Display/raw/master/images/btc_display.jpg "BTC Display on ESP32 with OLED")
+
 Features:
 * Configure WiFi via web interface (save and loads settings when rebooted) (/wificonfig)
 * Display bitcoin price and total value held in selectable currency (/btcconfig)
